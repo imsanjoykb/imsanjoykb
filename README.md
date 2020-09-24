@@ -25,6 +25,31 @@ Besides programming, I enjoy reading and travelling.
 <img src="https://github-readme-stats.vercel.app/api?username=imsanjoykb&show_icons=true" alt="imsanjoykb"/>
 </p>
 
+## Stack I work with
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nvidia/nvidia-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+
+
 <p align="center">
 <a href="https://www.linkedin.com/in/imsanjoykb">	
   <img align="center" alt="Sanjoy Biswas | LinkdeIn" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
