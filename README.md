@@ -66,6 +66,9 @@ Besides programming, I enjoy reading and travelling.
 </p>
 <br>
 
+### Contribution Graph
+[![Sanjoy's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imsanjoykb=xcode)](https://github.com/imsanjoykb)
+
 <p align="center">
 You have finally discovered my Github profile, so let's get connected!
 <br/>
