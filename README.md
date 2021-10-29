@@ -10,7 +10,7 @@ I have been working in Data Science, Computer Cision & NLP in a varisty of indus
   
 **A bit about me:**
 
-- 🔭 I’m currently working as a **Applied Computer Vision & Robotics Engineer  @ECL Technologies**
+- 🔭 I’m currently working as a **Applied Computer Vision & Robotics Engineer  @ECL Technologies Ltd**
 - 👯 I’m looking to collaborate on **DL and Computer Vision Projects**
 - 🤔 I’m looking for help with **learning anything new!**
 - 👨‍💻 Anything about me is available at **[imsanjoykb.com](https://imsanjoykb.github.io/)**
