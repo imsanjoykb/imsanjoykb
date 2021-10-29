@@ -4,10 +4,8 @@
 <br />
 <br />
 <br />
-I'm a Data Science practitioner and computer programmer with an avid interest in Natural Language Processing and traditional Machine Learning. As a core programmer, I love taking challenges and love being part of the solution.
-<br/>
-Besides programming, I enjoy reading and travelling.
-<br>
+I have been working in Data Science, Computer Cision & NLP in a varisty of industry. I have experienced to work in FinTech, HealthTech, Robotics & Manufacturing Technology with strong research, programming & project management skills. My research & development is helping company on building technologically sustainable products for clients & services.
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />
   
 **A bit about me:**
