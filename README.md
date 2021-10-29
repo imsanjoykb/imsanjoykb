@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjoy Biswas</h1>
-<h3 align="center">Data Scientist ● Kaggle Competitor ● Research Student </h3>
+<h3 align="center">Data Scientist ● Computer Vision ● Researcher </h3>
 
 <br />
 <br />
@@ -12,10 +12,10 @@ Besides programming, I enjoy reading and travelling.
   
 **A bit about me:**
 
-- 🔭 I’m currently working as a **Data Scientist @ PIPELINE Security**
-- 👯 I’m looking to collaborate on **DL and NLP Projects**
+- 🔭 I’m currently working as a **Applied Computer Vision & Robotics Engineer  @ECL Technologies**
+- 👯 I’m looking to collaborate on **DL and Computer Vision Projects**
 - 🤔 I’m looking for help with **learning anything new!**
-- 👨‍💻 Anything about me is available at **[imsanjoykb.com](https://iamsanjoy.wordpress.com)**
+- 👨‍💻 Anything about me is available at **[imsanjoykb.com](https://imsanjoykb.github.io/)**
 - 💬 Ask me about **anything you feel like!**
 - 📫 How to reach me **sanjoy.eee32@gmail.com**
 - ⚡ Fun fact **I play Badminton and Listening Song!**
@@ -62,6 +62,9 @@ Besides programming, I enjoy reading and travelling.
 </a>	
 <a href="https://www.instagram.com/imsanjoykb">	
   <img align="center" alt="Sanjoy Biswas | Instagram" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />	
+</a>
+<a href="https://stackoverflow.com/users/12695498/sanjoy-biswas">	
+  <img align="center" alt="Sanjoy Biswas | Stack Overflow" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />	
 </a>
 </p>
 <br>
