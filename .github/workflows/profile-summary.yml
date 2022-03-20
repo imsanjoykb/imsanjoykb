@@ -12,8 +12,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.4.0-hotfix.3
         env:
           GITHUB_TOKEN: ${{ secrets.token }}
         with:
           USERNAME: ${{ github.repository_owner }}
+
+
