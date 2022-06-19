@@ -183,6 +183,14 @@ A passionate engineer with 3+ years experience, have been working in Data Scienc
 ### Contribution Graph
 [![Sanjoy's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imsanjoykb&theme=xcode)](https://github.com/imsanjoykb)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imsanjoykb&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=imsanjoykb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://git.io/streak-stats)
+
+[![GitHub Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=imsanjoykb&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+  <br/>
+
 <p align="center">
 You have finally discovered my Github profile, so let's get connected!
 <br/>
