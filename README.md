@@ -123,14 +123,14 @@ A passionate engineer with 3+ years experience, have been working in Data Scienc
 
 <br>
 
-[![GitHub Most Used Language](https://activity-graph.herokuapp.com/graph?username=imsanjoykb&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=imsanjoykb&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=imsanjoykb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://git.io/streak-stats)
+[![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=imsanjoykb&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://git.io/streak-stats)
 
-[![GitHub Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=imsanjoykb&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=imsanjoykb&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imsanjoykb&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imsanjoykb&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://git.io/streak-stats)
 
 
 
