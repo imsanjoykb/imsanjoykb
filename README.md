@@ -1,10 +1,12 @@
 <h2 align="center">Hi 👋, I'm Sanjoy Biswas</h2>
 <h3 align="center">Data Scientist & Analyst ● Machine Learning ● AI Researcher </h3>
 <br />
+
 A passionate engineer with 3+ years experience, have been working in Data Science, Computer Cision & NLP in a varisty of industry. I have experienced to work in FinTech, HealthTech, Robotics & Manufacturing Technology with strong research, programming & project management skills. My research & development is helping company on building technologically sustainable products for clients & services.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />
-  
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250px"/>
+
 **A bit about me:**
 
 - 🔭 I’m currently working as a **Data Scientist || & AI Researcher  @DataSenseTM**
