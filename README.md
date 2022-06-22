@@ -146,8 +146,3 @@ Please feel free to clone projects and raise issues if you think something could
 Happy Coding!!
 </p>  
 
-https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white
-
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&&logo=&logoColor=white"></a>
