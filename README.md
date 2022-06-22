@@ -22,9 +22,6 @@
 </p>
 A passionate engineer with 3+ years experience, have been working in Data Science, Computer Cision & NLP in a varisty of industry. I have experienced to work in FinTech, HealthTech, Robotics & Manufacturing Technology with strong research, programming & project management skills. My research & development is helping company on building technologically sustainable products for clients & services.
 
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300px"/>
-
 **A bit about me:**
 
 - 🔭 I’m currently working as a **Data Scientist || & AI Researcher  @DataSenseTM**
@@ -33,9 +30,7 @@ A passionate engineer with 3+ years experience, have been working in Data Scienc
 - 👨‍💻 Anything about me is available at **[imsanjoykb.com](https://imsanjoykb.github.io/)**
 - 💬 Ask me about **anything you feel like!**
 - 📫 How to reach me **sanjoy.eee32@gmail.com**
-
 <br>
-
 </p>
 
 ## 🛠️ My favorite tools
