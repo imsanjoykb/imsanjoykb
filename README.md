@@ -14,6 +14,7 @@
     <a href="https://www.researchgate.net/"><img alt="Research Gate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"></a>
     <a href="https://www.amazon.com/s?i=digital-text&rh=p_27%3ASanjoy+Kumar&s=relevancerank&text=Sanjoy+Kumar&ref=dp_byline_sr_ebooks_1"><img alt="Amazon Kindle" src="https://img.shields.io/badge/amazon%20Kindle-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white"></a>
     <a href="https://instagram.com/imsanjoykb/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://discord.com/channels/@imsanjoykb"><img alt="Instagram" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 
 
