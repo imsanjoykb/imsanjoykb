@@ -3,15 +3,19 @@
 <br />
 <p>
     <a href="sanjoy.eee32@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="sanjoy.eee32@gmail.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+    <a href="https://imsanjoykb.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/imsanjoykb/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="hhttps://github.com/imsanjoykb/"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/12695498/sanjoy-biswas"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
     <a href="https://www.kaggle.com/imsanjoykb"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+    <a href="https://www.youtube.com/channel/UCq-yJPXkRM3LdRYgFcFqZJg"><img alt="Instagram" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
     <a href="https://www.hackerrank.com/imsanjoykb"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
     <a href="https://leetcode.com/imsanjoykb/"><img alt="Leet Code" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-    <a href="https://www.amazon.com/s?i=digital-text&rh=p_27%3ASanjoy+Kumar&s=relevancerank&text=Sanjoy+Kumar&ref=dp_byline_sr_ebooks_1"><img alt="Leet Code" src="https://img.shields.io/badge/amazon%20Kindle-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white"></a>
-    <a href="https://instagram.com/imsanjoykb/"><img alt="Leet Code" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.researchgate.net/"><img alt="Research Gate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"></a>
+    <a href="https://www.amazon.com/s?i=digital-text&rh=p_27%3ASanjoy+Kumar&s=relevancerank&text=Sanjoy+Kumar&ref=dp_byline_sr_ebooks_1"><img alt="Amazon Kindle" src="https://img.shields.io/badge/amazon%20Kindle-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white"></a>
+    <a href="https://instagram.com/imsanjoykb/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+
 
     
 </p>
