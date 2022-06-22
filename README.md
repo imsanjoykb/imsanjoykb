@@ -30,11 +30,9 @@ A passionate engineer with 3+ years experience, have been working in Data Scienc
 - 👨‍💻 Anything about me is available at **[imsanjoykb.com](https://imsanjoykb.github.io/)**
 - 💬 Ask me about **anything you feel like!**
 - 📫 How to reach me **sanjoy.eee32@gmail.com**
-<br>
 </p>
 
 ## 🛠️ My favorite tools
-
 ### 👨‍💻 Programming and markup languages
 
 <p>
@@ -120,16 +118,13 @@ A passionate engineer with 3+ years experience, have been working in Data Scienc
 
 <br>
 
-[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=imsanjoykb&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/imsanjoykb">
+  <img height="50%" width="33.33%" src="https://github-readme-stats.vercel.app/api?username=imsanjoykb&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" /><!-- wi*quL3fcV --><img height="50%" width="33.33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsanjoykb&hide=html&hide_title=false&hide_border=true&layout=compact&theme=dracula&langs_count=4" /><img height="50%" width="33.33%" src="https://github-readme-streak-stats.herokuapp.com/?user=imsanjoykb&hide=html&hide_title=false&hide_border=true&layout=compact&theme=dracula&" />
+  
+</a>
 
-[![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=imsanjoykb&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://git.io/streak-stats)
-
-[![GitHub Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=imsanjoykb&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imsanjoykb&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://git.io/streak-stats)
-
-
+[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=imsanjoykb&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=21)](https://github.com/anuraghazra/github-readme-stats)
 
   <br/>
 
@@ -140,4 +135,5 @@ Please feel free to clone projects and raise issues if you think something could
 <br/>
 Happy Coding!!
 </p>  
+
 
