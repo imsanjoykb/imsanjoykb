@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist & Analyst ● Machine Learning ● AI Researcher </h3>
 <br />
 <p>
-    <a href="sanjoy.eee32@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href=mailto:15203012@iubat.edu><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://imsanjoykb.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/imsanjoykb/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="hhttps://github.com/imsanjoykb/"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -115,9 +115,9 @@ A passionate engineer with 3+ years experience, have been working in Data Scienc
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
 
-<br>
-
+### 📊 Github Stats
 
 <a href="https://github.com/imsanjoykb">
   <img height="50%" width="33.33%" src="https://github-readme-stats.vercel.app/api?username=imsanjoykb&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" /><!-- wi*quL3fcV --><img height="50%" width="33.33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsanjoykb&hide=html&hide_title=false&hide_border=true&layout=compact&theme=dracula&langs_count=4" /><img height="50%" width="33.33%" src="https://github-readme-streak-stats.herokuapp.com/?user=imsanjoykb&hide=html&hide_title=false&hide_border=true&layout=compact&theme=dracula&" />
