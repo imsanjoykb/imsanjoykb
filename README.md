@@ -20,7 +20,7 @@
 
     
 </p>
-A passionate engineer with 3+ years experience, have been working in Data Science, Computer Cision & NLP in a varisty of industry. I have experienced to work in FinTech, HealthTech, Robotics & Manufacturing Technology with strong research, programming & project management skills. My research & development is helping company on building technologically sustainable products for clients & services.
+A passionate engineer, have been working in Data Science, Computer Vision & NLP in a variety of industry. I have experienced to work in Analytics, Predictive Modeling, Pattern Generation & Robotics  with strong research, programming & project management skills. My research & development is helping company on building technologically sustainable products for clients & services.
 
 **A bit about me:**
 
