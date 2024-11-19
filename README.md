@@ -21,15 +21,6 @@
     
 </p>
 A passionate engineer, have been working in Data Science, Computer Vision & NLP in a variety of industry. I have experienced to work in Analytics, Predictive Modeling, Pattern Generation & Robotics  with strong research, programming & project management skills. My research & development is helping company on building technologically sustainable products for clients & services.
-
-**A bit about me:**
-
-- 🔭 I’m currently working as a **Data Scientist || AI Researcher  @DataSenseTM**
-- 👯 I’m looking to collaborate on **Open Source AI Projects & Kaggle Competitions.**
-- 🤔 I’m currently learning whatever challenges me.
-- 👨‍💻 Anything about me is available at **[imsanjoykb.com](https://imsanjoykb.github.io/)**
-- 💬 Ask me about **anything you feel like!**
-- 📫 How to reach me : **sanjoy.eee32@gmail.com**
 </p>
 
 
