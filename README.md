@@ -1,3 +1,3 @@
-<h2 align="center">Hi 👋, I'm Sanjoy Biswas</h2>
+<h2 align="center">Hi 👋, I'm Sanjoy Kumar Biswas</h2>
 
 
